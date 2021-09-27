@@ -1,7 +1,6 @@
 # refactored-octo-enigma
 I am doing research on host-pathogen protien interaction networks using computational approaches.
  i am reading a lot more stuff from previous few months.
-and trust me i was null when started it.
 i have a computer science background.
 working with protiens is different and having initial knowledge of protien sequences takes much of my time.
 Right now, i have got a path but still i'll need some one supervision who is willing to assist my work.
